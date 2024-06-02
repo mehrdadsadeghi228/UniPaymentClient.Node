@@ -320,7 +320,7 @@ const uni_payment_client = (function () {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
             }
-        })
+        });
     };
 
     /**

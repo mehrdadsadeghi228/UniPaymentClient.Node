@@ -10,7 +10,7 @@ const uniPaymentClient = new UniPaymentClient(configuration);
 
 it('Create Invoice', (done) => {
     const parameters = {
-        "app_id": "69eb0bf8-8612-4ee6-a6d4-1cb634d8be12",
+        "app_id": "da124807-b619-4a49-a5c5-5a2aa59d3f0f",
         "title": "Test Invoice",
         "description": "Test Desc",
         "lang": "en-US",
